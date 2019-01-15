@@ -1,4 +1,4 @@
-import {calcZodiac} from "../js/zodiac.js";
+import {calcZodiac} from "../js/lib.js";
 
 test ('should check zodiac', () => {
     const month = '12';
