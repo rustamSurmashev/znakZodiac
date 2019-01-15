@@ -1,4 +1,4 @@
-import {calcZodiac} from "./zodiac.js";
+import {calcZodiac} from "./lib.js";
 
 const monthEl = document.getElementById('month');
 const dayEl = document.getElementById('day');
